@@ -27,4 +27,4 @@ You must be using Grunt to automate SASS compilation
 
 You must be using Grunt to automate Handlebar template compilation
 
-You must be using Grunt to automate your unit test suite - which means you must have unit tests for your code
+~~You must be using Grunt to automate your unit test suite - which means you must have unit tests for your code~~
